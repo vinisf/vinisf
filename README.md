@@ -50,7 +50,6 @@ Se quiser trocar ideia, colaborar ou desenvolver um projeto, é só chamar.
 ## 🛠️ Tecnologias e Habilidades
 
 <p align="center">
-  <img alt="Laravel" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
   <img alt="PHP" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
   <img alt="Node" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img alt="Vue" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
