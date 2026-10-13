@@ -1,68 +1,81 @@
-<img align="right" src="https://user-images.githubusercontent.com/87234794/126835043-ff643219-1dc7-465b-a80b-38d1e630e9cc.png" style="width:320px; max-width:100%;"/>
+<div align="center">
 
-<h1 align="center"> 
-👋 Bem-vindo ao meu GitHub
-</h1>
+# Vinicius Soares
 
-<p align="center">
-  <strong>Vinicius Soares</strong> · Desenvolvedor Full Stack
-</p>
+### Desenvolvedor Backend Pleno
 
----
+**PHP · Laravel · Node.js · APIs REST · PostgreSQL · MySQL**
 
-Olá!  
-Sou **Vinicius Soares**, desenvolvedor **Full Stack**, apaixonado por tecnologia e pela construção de soluções que resolvem problemas reais.
+Desenvolvimento de aplicações web, integrações e soluções orientadas a regras de negócio.
 
-Sou **bacharel em Sistemas de Informação (Universidade CEUMA – 2018)** e, desde então, venho evoluindo continuamente na área de desenvolvimento de software, com foco em **backend sólido**, **APIs bem definidas** e **interfaces funcionais**.
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://vinisoares-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinisoaresdev/)
 
-Acredito que programar vai muito além de escrever código:  
-é sobre **modelar regras de negócio**, **tomar boas decisões técnicas** e **superar desafios de forma consistente**.
+</div>
 
 ---
 
-## 🚀 Sobre este GitHub
+## Sobre mim
 
-Aqui você encontrará:
-- Projetos **autorais**
-- Aplicações **full stack**
-- Sistemas com **regras de negócio reais**
-- Código limpo, organizado e versionado
-- Testes, documentação e deploy em produção
+Sou desenvolvedor de software com **mais de 4 anos de experiência**, com foco em backend e na evolução de sistemas utilizados no mundo real.
 
-Fique à vontade para explorar os repositórios.  
-Se quiser trocar ideia, colaborar ou desenvolver um projeto, é só chamar.
+Minha trajetória inclui **sistemas educacionais, processos seletivos e plataformas SaaS**, com atuação em desenvolvimento e integração de APIs, webhooks, processamento assíncrono, modelagem de dados e implementação de regras de negócio.
+
+Trabalho principalmente com **PHP, Laravel e Node.js**. Também tenho experiência com ferramentas e tecnologias que apoiam o desenvolvimento e a manutenção de aplicações, como **PostgreSQL, MySQL, Redis, Docker e Git**.
+
+## Tecnologias
+
+| Área | Tecnologias |
+| --- | --- |
+| **Backend** | PHP, Laravel, Node.js, JavaScript, TypeScript, APIs REST |
+| **Banco de dados** | PostgreSQL, MySQL, SQLite |
+| **Integrações e processamento** | Webhooks, Postbacks S2S, Redis, filas e jobs |
+| **Ferramentas e infraestrutura** | Docker, Git, Postman, armazenamento compatível com S3 |
+| **Frontend e mobile** | Vue 3, Vite, Tailwind CSS, Capacitor |
+
+## Projetos em destaque
+
+### Simulador de Financiamento Imobiliário
+
+Aplicação para simular cenários de financiamento imobiliário, com regras financeiras, cálculos detalhados e integração entre frontend e API.
+
+**Destaques técnicos:** separação entre frontend e backend, API em Node.js/Express, regras de negócio e testes automatizados.
+
+**Stack:** Node.js, Express, Vue 3, Vite, JavaScript.
+
+[Frontend](https://github.com/vinisf/simulador-financiamento-web) · [Backend/API](https://github.com/vinisf/simulador-financiamento) · [Demonstração](https://simulador-financiamento-web-three.vercel.app/)
+
+### ViniFit — Aplicativo de Treinos
+
+Aplicativo Android de uso pessoal, desenvolvido para registrar treinos de musculação, acompanhar cargas e evolução física, com funcionamento offline.
+
+**Destaques técnicos:** persistência local com SQLite, gerenciamento de estado com Pinia, integração web/mobile com Capacitor e exportação/importação de backups JSON.
+
+**Stack:** Vue 3, TypeScript, Vite, Pinia, Capacitor, SQLite, Tailwind CSS.
+
+[Ver código-fonte](https://github.com/vinisf/Vinifit)
 
 ---
 
-## 🔗 Contato
+## Experiência profissional
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinisoaresdev/">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=LinkedIn&message=vinisoaresdev&color=0A66C2">
-  </a>
-  <a href="mailto:vinisferreira95@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Email&message=vinisferreira95@gmail.com&color=EA4335">
-  </a>
-</p>
+- **AtomicTracker — Desenvolvedor Full Stack** · mar/2026 – atual  
+  Desenvolvimento de funcionalidades e integrações para plataforma SaaS, incluindo APIs, webhooks, postbacks e processamento de eventos.
+- **IEMA — Desenvolvedor de Software** · dez/2021 – atual  
+  Desenvolvimento e manutenção de sistemas educacionais, regras de negócio, APIs e soluções baseadas em bancos de dados relacionais.
+- **LAMPP-IT Solutions — Desenvolvedor de Software** · mar/2023 – mar/2024  
+  Desenvolvimento e evolução de sistemas com Node.js, PHP, Vue.js e PostgreSQL.
+
+## Formação
+
+**Bacharelado em Sistemas de Informação** — Universidade CEUMA (2018)
 
 ---
 
-## 🛠️ Tecnologias e Habilidades
+<div align="center">
 
-<p align="center">
-  <img alt="PHP" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img alt="Node" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Vue" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  <img alt="Docker" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-  <img alt="Git" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
-  <img alt="Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="HTML5" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-</p>
+### Vamos nos conectar?
 
+[LinkedIn](https://www.linkedin.com/in/vinisoaresdev/) · [Portfólio](https://vinisoares-portfolio.vercel.app/) · [Repositórios](https://github.com/vinisf?tab=repositories)
 
-
-<p align="center">
-  <strong>Obrigado pela visita — volte sempre 🚀</strong>
-</p>
+</div>
